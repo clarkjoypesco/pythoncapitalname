@@ -12,3 +12,10 @@ name2 = name2.title()
 
 
 print  name1 + ' ' + name2
+
+
+s = "any string"
+
+print s[:3] + s[3:]
+print s[0:]
+print s[:]
